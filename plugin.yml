@@ -1,0 +1,11 @@
+name: FrameBreak
+main: com.augesrob.framebreak.FrameBreak
+version: 1.2
+api-version: 1.16
+permissions:
+  framebreak.break:
+    default: op
+    description: Allows you to break portal frames.
+commands:
+  fbhelp:
+    description: Plugin Help Menu
